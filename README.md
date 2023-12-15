@@ -1,0 +1,1 @@
+A Java program that replicates the final game of a famous price related game show. In this version, a “Showcase” contains exactly 5 unique randomly selected prizes. The user must guess the sum of the prizes within $1,300 below or equal to the sum in order to win.
